@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+     font-family: "Inter", sans-serif;
 }
 
 img {
@@ -97,4 +98,66 @@ padding-bottom: 15px;
 .cardIn h3 {
     font-size: 25px;
     padding-left: 29px;
+}
+.secure{
+    max-width: 1400px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 100px;
+
+}
+.secure-start{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.secure h1{
+    font-size: 44px;
+    text-align: center;
+    padding-top: 30px;
+}
+.secure h5{
+    color: #575757;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.secure-card{
+    border-radius: 10px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.09);
+    padding: 40px;
+}
+.secure-card h3{
+   font-size: 44px;
+   font-weight: bold;
+   padding: 2px;
+}
+.secure-card p{
+    color: #575757;
+    padding: 5px;
+}
+.dash{
+    padding: 10px;
+    color: #575757;
+}
+.secure-card ul li{
+    padding: 10px;
+}
+.secure-card button{
+    color: #1D4ED8;
+    background-color: #ffffff;
+    border-color: #1D4ED8;
+    padding: 15px 95px;
+    border-radius: 10px;
+    font-size: 15px;
+    width: 100%;
+
+}
+.card-black{
+    background-color: #080b28;
+    color: #ffffff;
+}
+.secure-card .btn-black{
+    background-color: #1D4ED8;
+    color: #ffffff;
 }
