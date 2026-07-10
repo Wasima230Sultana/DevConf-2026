@@ -153,8 +153,9 @@ nav {
 
 .secure-card {
     border-radius: 10px;
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.09);
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.09);
     padding: 40px;
+    border-color: #575757;
 }
 
 .secure-card h3 {
