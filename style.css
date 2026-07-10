@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    max-width: 100%;
+}
+.common-btn{
+    background: #1D4ED8;
+    color: #ffffff;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+}
+.container{
+    background: #ffffff;
+    max-width: 1800px;
+    margin: auto;
+}
+nav{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.link li{
+    display: inline;
+    padding: 12px ;
+    color:#575757;
+}
