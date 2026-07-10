@@ -27,3 +27,22 @@ nav{
     padding: 12px ;
     color:#575757;
 }
+.banner{
+    background-image: url('./assets/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 25px;
+}
+.banner h1{
+    padding-top: 130px;
+    padding-bottom: 5px;
+    font-size: 80px;
+    color: #ffffff;
+
+}
+.banner p{
+     font-size: 22px;
+    color: #ffffef;
+    padding-bottom: 400px;
+}
